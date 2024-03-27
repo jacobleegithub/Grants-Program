@@ -18,12 +18,17 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 
 ### Overview
 
-Please provide the following:
+# Beyond Cookies - Personalized Deal Matchmaking for Online Advertising
 
-- If the name of your project is not descriptive, a tagline (one sentence summary).
-- A brief description of your project.
-- An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
-- An indication of why your team is interested in creating this project.
+The aDeal Network is a decentralized platform aiming to transform the online advertising industry by leveraging Web3 technology. It empowers users with control over their wishlist and purchase plan, offers transparency through an open algorithm framework, and ensures efficient ad targeting with user-generated wishlists with on-chain attestation. The platform addresses key challenges in the current advertising ecosystem, such as privacy concerns, lack of transparency, and ads fraud.
+
+Main dApps on Polkadot Mainnet: Deploying the main dApps, such as the wishlist avatars, attestation service, and bidding contract, on the Polkadot mainnet can be advantageous for security and interoperability with others project. By utilizing the Polkadot mainnet, these core components can leverage the shared security of the Polkadot network and easily interact with other parachains or external applications.
+
+Open Algorithm Module on Substrate: Building the open algorithm module as a replaceable software module on Substrate allows for flexibility and customization. This modular approach enables the easy integration and updating of ad-matching algorithms, which is crucial for maintaining the efficiency and relevance of the ad delivery process.
+
+Push Ads with Data Analytics Software Module on Substrate: Developing the push ads and data analytics components as software modules on Substrate provides a solid foundation for handling large volumes of data and complex analytics processes. By utilizing Substrate, these modules can benefit from the scalability and performance optimizations offered by the framework.
+
+The aDeal team is passionate about leveraging Polkadot/Substrate technology to create a fairer and more transparent online advertising ecosystem. We believe that the current challenges in the industry, such as data privacy concerns, centralized control, and ad fraud, can be effectively addressed with Web3 technology. The aDeal Network represents our commitment to empowering users by giving them control over their data and the ads they see, promoting transparency through an open algorithm framework, and driving innovation in the advertising space.
 
 ### Project Details
 
